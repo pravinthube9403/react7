@@ -7,6 +7,7 @@ export default function Child(props){
             <p> my name is {props.na}</p>
             
             <img src={props.im} alt="cx" />
+            <img src={props.im} alt="cx" />
           
         </div>
     )
