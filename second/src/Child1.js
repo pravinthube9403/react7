@@ -8,6 +8,7 @@ export default function Child(props){
             
             <img src={props.im} alt="cx" />
             <img src={props.im} alt="cx" />
+            <img src={props.im} alt="cx" />
           
         </div>
     )
